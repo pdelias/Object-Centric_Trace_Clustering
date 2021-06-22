@@ -8,3 +8,4 @@ The goal of this work is to turn the existing methods of trace clustering releva
 This work presents the fundamental formulation towards this goal and a proof of concept that demonstrates the applicability of the proposed approach.
 
 This is the script file that implements the algorithm described in the paper submitted to ICPM 2021.
+You need to download the "Order Management Log" from http://ocel-standard.org. The creation of the matrices is hard-coded in the script.
